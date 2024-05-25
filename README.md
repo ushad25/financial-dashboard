@@ -1,8 +1,9 @@
 
 
-Financial Dashboard
-Power BI Data Analysis Project
-Overview
+#Financial Dashboard Power BI Data Analysis Project
+
+
+Overview:
 This project involves analyzing a dataset using Power BI and creating an interactive report with multiple visuals. The dataset used for this analysis is available at the following link: Dataset.
 
 Visuals
@@ -33,6 +34,6 @@ This Power BI report provides a comprehensive financial dashboard that effective
 
 The gauge visual for total sales, in particular, offers a clear and immediate understanding of overall sales performance, while other visuals like the stacked column chart and pie chart provide deeper insights into the distribution and breakdown of sales data. This interactive and well-organized report showcases the ability to effectively analyze and present complex financial data in a user-friendly format.
 
-Repository Link
+Repository Link:https://github.com/ushad25/financial-dashboard
 
 

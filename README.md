@@ -5,6 +5,32 @@ Project Title: Financial Performance Dashboard
 
 Project Overview: For my second project in entry-level data science and machine learning, I am developing a comprehensive Financial Performance Dashboard. This project involves analyzing financial data from various departments and locations within a company. The primary objective is to provide stakeholders with an in-depth view of the company's financial health, highlighting key metrics such as revenue, expenses, profit margins, and cash flow. The dashboard will serve as a powerful tool for decision-makers, enabling them to identify trends, assess financial risks, and make strategic decisions to enhance financial stability and growth.
 
+Key Tasks:
+Data Understanding and Import:
+Understand the Structure and Content of the Dataset:
+
+Gain a comprehensive understanding of the dataset, including the types of financial data available (e.g., revenue, expenses, profit , etc.).
+Identify key variables and metrics relevant to the financial analysis.
+
+Import the Dataset into Power BI for Analysis:
+
+Load the financial data into Power BI, ensuring the data is properly formatted for analysis.
+Data Cleaning and Transformation:
+Clean the Data to Ensure Accuracy and Consistency:
+Address missing values by imputing estimates or removing rows/columns with significant missing data.
+Identify and remove duplicate rows to maintain data uniqueness.
+Correct any inconsistencies or errors in the dataset .
+
+Perform Necessary Transformations to Prepare the Data for Analysis:
+
+Standardize the data formats (e.g., dates, currency).
+Aggregate data where necessary (e.g., monthly or quarterly summaries).
+Create new variables or metrics that will be useful for the analysis (e.g., profit margin percentage).
+
+Data Modeling:
+Establish Relationships Between Tables:
+Define relationships between different tables in the dataset to ensure accurate data integration and analysis
+
 
 Overview:
 This project involves analyzing a dataset using Power BI and creating an interactive report with multiple visuals. The dataset used for this analysis is available at the following link: [Dataset.](https://docs.google.com/spreadsheets/d/1kmZtwNrw9_M0WtZSqfjK89xXlAYUXTzr/edit?usp=sharing&ouid=108249843804995578592&rtpof=true&sd=true)

@@ -1,6 +1,9 @@
 
 
-#Financial Dashboard Power BI Data Analysis Project
+
+Project Title: Financial Performance Dashboard
+
+Project Overview: For my second project in entry-level data science and machine learning, I am developing a comprehensive Financial Performance Dashboard. This project involves analyzing financial data from various departments and locations within a company. The primary objective is to provide stakeholders with an in-depth view of the company's financial health, highlighting key metrics such as revenue, expenses, profit margins, and cash flow. The dashboard will serve as a powerful tool for decision-makers, enabling them to identify trends, assess financial risks, and make strategic decisions to enhance financial stability and growth.
 
 
 Overview:
